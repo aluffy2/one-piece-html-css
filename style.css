@@ -1,0 +1,177 @@
+.imglogo{
+    padding-left: 570px;
+    
+}
+
+.head2{
+    text-align: center;
+    color: #D70000;
+    font-size: x-large;
+  font-family: "Permanent Marker", cursive;
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+.para{
+    font-size: medium;
+    text-align: center;
+    color: #2E63A4;
+    font-family:"Permanent Marker", cursive;
+}
+
+.card1{
+    background-color: #D70000;
+    text-align: left; 
+}
+
+.luffy{
+    float: left;
+}
+
+.l1{
+    font-size: large;
+    font-weight: 500;
+    padding-bottom: 4px;
+}
+
+.card2{
+    background-color:#AAEB83 ;
+    text-align: right;
+}
+
+.zoro{
+    float: right;
+}
+
+.z1{
+    text-align: right;
+    font-size: large;
+    font-weight: 500;
+    padding-bottom: 3px;
+
+}
+
+.card3{
+    text-align: left;
+    background-color: #2E63A4;
+}
+
+.sanji{
+    float: left;
+}
+
+.s1{
+    text-align: left;
+    font-size: large;
+    font-weight: 500;
+    padding-bottom: 2px;
+}
+
+.card4{
+    background-color: orangered;
+    text-align: right;
+}
+
+.nami{
+    float: right;
+}
+
+.n1{
+    text-align: right;
+    font-size: large;
+     font-weight: 500;
+}
+
+.card5{
+    text-align: left;
+    background-color: orange;
+    
+}
+
+.usopp{
+    float: left;
+}
+
+.u1{
+    text-align: left;
+    font-size: large;
+    font-weight: 500;
+}
+
+.chopper{
+    float: right;
+}
+
+.card6{
+    background-color: palevioletred;
+    text-align: right;
+}
+
+.c1{
+    font-size: larger;
+    font-weight: 500;
+    text-align: right;
+}
+
+.brook{
+    float: left;
+}
+.card7{
+    background-color: grey;
+   text-align: left;
+}
+
+.b1{
+    text-align: left;
+    font-size: large;
+    font-weight: 500;
+}
+
+.card8{
+    background-color: rgb(160, 87, 160);
+    text-align: left;
+    
+}
+
+.robin{
+    float: left;
+}
+
+.r1{
+    text-align: left;
+    font-size: large;
+    font-weight: 500;
+}
+
+.card9{
+    background-color: lightskyblue;
+    text-align: right;
+}
+
+.franky{
+    float: right;
+}
+
+.f1{
+    text-align: right;
+    font-size: large;
+    font-weight: 500;
+}
+
+.card10{
+    background-color: burlywood;
+    text-align: right;
+}
+
+.jinbe{
+    float: right;
+}
+
+.j1{
+    text-align: right;
+    font-size: large;
+    font-weight: 500;
+}
+
+  
